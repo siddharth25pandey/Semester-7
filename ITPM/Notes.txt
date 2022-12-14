@@ -1,0 +1,21 @@
+1. Difference between Project and Operations: https://www.geeksforgeeks.org/difference-between-projects-and-operations/
+2. Type of PM Process: Project Initiation, Requirements definition and planning, project execution, performance mentoring and closeout, project closeout.
+3. Project Management Knowledge Areas: https://www.projectmanager.com/blog/10-project-management-knowledge-areas
+	Scope, Time, Cost, Quality, Human Resource, Communications, Risk, Procurement, Stackholder, Integration 
+Scope: what we supposed to do for a project is called scope.
+Triple Constraint: Scope, Cost, Time
+SCOPE CREEP Problem: To avoid it clear scope management is key
+
+Steps in scope Management:
+a) Plan scope
+b) Collect requirement
+c) define scope
+d) create wbs
+e) validate scope
+f) control scope
+
+ITTO (Input, Tools, Technique and Output)
+WBS (Work Breakdown Structure)
+
+
+Human Resources, Non Human Resources
